@@ -2177,5 +2177,3 @@ print(f"Total runtime: {duration_edgesimpy:.2f} seconds")
 
 resource_tracker.final_report()
 file.close()
-
-print(f"amin")
